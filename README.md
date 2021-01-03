@@ -12,3 +12,6 @@ Conteudo:
 * Digital1: Primeiro teste de comunicação com o módulo
 * Digital2: Teste de cadastramento de digital
 * Digital3: Identificação de digitais
+* Digital4: Envio para PC de imagem e template, recepção de template
+* Digital.py: programa Python para conversar com Digital4
+
